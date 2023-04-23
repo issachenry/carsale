@@ -43,11 +43,11 @@
 
 ####  介绍
 
-- [ ] **SpringBoot2.X VUE2.6 Antd1.7.2 MyBatisPlus Shiro1.5.0 Java1.8 管理系统  可作为毕业设计和快速开发 **
+-  **SpringBoot2.X VUE2.6 Antd1.7.2 MyBatisPlus Shiro1.5.0 Java1.8 管理系统  可作为毕业设计和快速开发 **
 
-- [ ] 项目所用技术
+-  项目所用技术
 
-- [ ]  前端技术
+- ####  前端技术
 
   1. Antd-VUE
   2. 页面,按钮级别权限控制。
@@ -59,7 +59,7 @@
   8. VUE路由，过滤器，自定义指令。
   9. 代码简洁，符合编码规范。
 
-- [ ]  后端技术
+- ####  后端技术
 
   1. SpringBoot2.x
   2. Shiro权限框架
@@ -71,15 +71,15 @@
   8. 代码生成器。
   9. orika传输对象映射器。
 
-- [ ]   项目代码展示
+- ####  项目代码展示
 
    前段代码
 
-  ![](C:\Users\Henry\Desktop\fsdownload\6.png)
+  ![输入图片说明](6.png)
 
   后端代码
 
-  ![](C:\Users\Henry\Desktop\fsdownload\7.png)
+  ![输入图片说明](7.png)
 
 #### 
 
