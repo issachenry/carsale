@@ -38,9 +38,6 @@
 ### 员工管理
 
 ![输入图片说明](5.png)
-
-
-
 #### 介绍
 
 -  **SpringBoot2.X VUE2.6 Antd1.7.2 MyBatisPlus Shiro1.5.0 Java1.8 管理系统  可作为毕业设计和快速开发 **
