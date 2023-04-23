@@ -96,7 +96,7 @@
 ```
 1.  yarn install (安装node_moudle)
 2.  yarn start (启动)
-3.  yarn build:pro (构建生产包)
+3.  yarn build:prod (构建生产包)
 ```
 
 
