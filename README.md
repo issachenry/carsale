@@ -3,7 +3,8 @@
 #### 介绍
 
 联系作者
-这是作者的微信二维码![](C:\Users\Henry\Desktop\1.png)
+这是作者的微信二维码![输入图片说明](1.png)
+
 
 如需本项目源代码，可扫码联系联系作者,
 17502188708微信同号
@@ -15,29 +16,27 @@
 
  - 登录 
 
-   ![](C:\Users\Henry\Desktop\fsdownload\0.png)
+  ![输入图片说明](0.png)
 
 - 销售管理
 
-  ![](C:\Users\Henry\Desktop\fsdownload\1.png)
+  ![输入图片说明](1.png)
 
 - 客户管理
 
-  ![](C:\Users\Henry\Desktop\fsdownload\2.png)
+  ![输入图片说明](2.png)
 
 - 库存管理
+![输入图片说明](3.png)
 
-  ![](C:\Users\Henry\Desktop\fsdownload\3.png)
-
-- 财务报表![](C:\Users\Henry\Desktop\fsdownload\4.png)
+- 财务报表
+![输入图片说明](4.png)
 
   
 
 - 员工管理
 
-  
-
-![](C:\Users\Henry\Desktop\fsdownload\5.png)
+![输入图片说明](5.png)
 
 
 
